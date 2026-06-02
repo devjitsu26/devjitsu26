@@ -25,7 +25,13 @@ Passionate about tech and Brazilian Jiu-Jitsu 🥋
 
 ## 📂 Projects
 
-> Currently building my portfolio — projects coming soon!
+## 📂 Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| [Gallumbos Ciruelo](https://github.com/devjitsu26/gallumbos-ciruelo) | Fictional underwear brand website | HTML, CSS | [🔗 Live](https://devjitsu26.github.io/gallumbos-ciruelo) |
+| [RockFest Database](https://github.com/devjitsu26/rockfest-database) | Music festival database design | SQL, E/R Diagram | — |
+| [FitZone Agile](https://github.com/devjitsu26/fitzone-agile-project) | Gym website agile project management | Trello, Scrum | — |
 
 ---
 
