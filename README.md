@@ -25,8 +25,6 @@ Passionate about tech and Brazilian Jiu-Jitsu 🥋
 
 ## 📂 Projects
 
-## 📂 Projects
-
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | [Gallumbos Ciruelo](https://github.com/devjitsu26/gallumbos-ciruelo) | Fictional underwear brand website | HTML, CSS | [🔗 Live](https://devjitsu26.github.io/gallumbos-ciruelo) |
